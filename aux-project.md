@@ -226,6 +226,9 @@ The user appears to be in the developer group, has .ssh folder created in his ho
 
 
 **Now test user access the ubuntu server via ssh**
+
+
+
 From my local system, I created a pem key which replicates the content of the private keys
 
 From VS code terminal, I did `nano auxproj.pem` command in the documents folder and copied the private keys contents into it then saved.
@@ -249,7 +252,9 @@ Also tried logging in with a few other users just to confirm access
 
 ## Project completed ##
 
-Below is the Youtube link to my screen record demo on how the users were onboarded onto the server 
+
+
+Below is the Youtube link to my screen record demo on how the users were onboarded onto the server for review
 
 
 [Project demo](https://www.youtube.com/watch?v=9IOvwizIHhI)
